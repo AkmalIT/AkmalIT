@@ -20,12 +20,11 @@
   <img style="width: 400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkmalIT&locale=en&custom_title=Top%20Languages&theme=dark" />
 </div>
 
-## LeetCode Stats
+## LeetCode and CodeWars Stats
 <div align="center">
   <img style="width: 400px" src="https://leetcode-stats.vercel.app/api?username=AkmalRustamov09&theme=dark" />
 </div>
 
-## Codewars Stats
 <div align="center">
   <img style="width: 400px" src="https://www.codewars.com/users/akmalitshnikgoda/badges/large" alt="Codewars Badge">
 </div>
